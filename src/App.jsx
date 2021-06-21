@@ -11,6 +11,7 @@ function App() {
           age={26}
           house={'Moscow'}
           love={'bicycle'}
+          hobby={'photo'}
         />
         <Footer /> 
 
