@@ -12,6 +12,7 @@ function App() {
           house={'Moscow'}
           love={'bicycle'}
           hobby={'photo'}
+          over={'cool'}
         />
         <Footer /> 
 
